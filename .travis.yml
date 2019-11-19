@@ -1,18 +1,18 @@
-language : C++
-sudo : false
-addons :
-  apt : 
-    packages : 
+language: c++
+sudo: false
+addons:
+  apt: 
+    packages: 
       - cmake
 
-matrix : 
-  include :
-    - os : linux
-    compiler : gcc-5
+matrix: 
+  include:
+    - os: linux
+    compiler: gcc-5
 
-script :
-  -mkdir build
+script:
+  - mkdir build
   - cd build
-  - cmake //
+  - cmake ..
   - make
   
