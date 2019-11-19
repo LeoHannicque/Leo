@@ -1,3 +1,0 @@
-/home/leo/Documents/C++/TD5/Leo/build/CMakeFiles/rebuild_cache.dir
-/home/leo/Documents/C++/TD5/Leo/build/CMakeFiles/main_exe.dir
-/home/leo/Documents/C++/TD5/Leo/build/CMakeFiles/edit_cache.dir
